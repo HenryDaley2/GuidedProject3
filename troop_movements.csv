@@ -1,4 +1,4 @@
-timestamp,unit_id,unit_type,empire_or_resistance,location_x,location_y,destination_x,destination_y,homeworld
+
 2025-03-17 15:14:23,1,unknown,resistance,1,5,6,5,Iridonia
 2025-03-17 15:14:22,2,tie_silencer,empire,1,2,10,8,Muunilinst
 2025-03-17 15:14:21,3,tie_silencer,empire,7,4,6,3,Kalee
